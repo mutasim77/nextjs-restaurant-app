@@ -1,3 +1,3 @@
 # Demo
 
-<img src="ScreenShot.png">
+<img src="Screenshot.png">
